@@ -1,0 +1,151 @@
+/*Mobile*/
+      @media (min-width:0px) and (max-width:360px){ /*319px*/
+
+        body{
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+
+        section{
+          /* border-color:orange; */
+          padding: 0px;
+          display:block;
+        }
+
+        #mainH1 {
+            margin-left: 10px;
+            font-size: larger;
+        }
+
+        #subline{
+          font-size:25px !important;
+        }
+
+        #photoDiv{
+            background: url("");
+        }
+
+        #mobile_img{
+            display:block;
+        }
+
+        #main_menu {
+          visibility: hidden;
+          display:none;
+        }
+
+        #mobile_main_menu {
+          font-size: 16px;
+          margin-top:5px;
+        }
+      }
+
+      /*Tablet Portrait*/
+      /*320px*/
+      @media (min-width:360px) and (max-width:639px){
+        body{
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+
+        section{
+          /*  border-color:red; */
+          padding: 0px;
+          display:block;
+        }
+
+        #mainH1 {
+            margin-left: 10px;
+            font-size: larger;
+        }
+
+        #main_menu {
+          visibility: hidden;
+          display:none;
+        }
+
+        #mobile_main_menu {
+          font-size: 16px;
+          margin-top:5px;
+        }
+      }
+
+      /*Tablet Landscape*/
+      @media (min-width:640px) and (max-width:767px){
+        body{
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+
+        section{
+          /*  border-color:green; */
+          padding: 0px;
+          display:block;
+        }
+
+        #mainH1 {
+            margin-left: 10px;
+            font-size: 27px;
+        }
+
+        #subline{
+          font-size:27px !important;
+        }
+
+        #main_menu {
+          visibility: hidden;
+          display:none;
+        }
+
+        #mobile_main_menu {
+          font-size: 16px;
+          margin-top:5px;
+        }
+
+      }
+
+      /*Larger Tablet*/
+      @media (min-width:768px) and (max-width:1023px){
+        body{
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+
+        section{
+          /*  border-color:blue; */
+          padding: 0px;
+          display:block;
+        }
+
+        #main_menu {
+          visibility: hidden;
+          display:none;
+        }
+
+        #mobile_main_menu {
+          font-size: 16px;
+          margin-top:5px;
+        }
+      }
+
+      /*Desktop (smallest)*/
+      @media (min-width:1024px){
+        section{
+          /*  border-color:purple; */
+        }
+
+        #mobile_menu_section {
+          visibility: hidden;
+          display: none;
+        }
+
+        #mobile_img{
+          visibility: hidden;
+          display: none;
+        }
+
+        #photoDiv{
+          min-height: 550px;
+        }
+
+      }
