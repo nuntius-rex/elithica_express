@@ -10,7 +10,7 @@ export default{
     </section>
     <section>
       <div class="column">
-        <h1 id="mainH1">ELITHICA</h1>
+        <h1 id="mainH1">ELITHICA (NOde/Express Version)</h1>
         <p id="subline">A modular front-end framework for intuitive web development.</p>
       </div>
       <div class="column" id="logo_div">
