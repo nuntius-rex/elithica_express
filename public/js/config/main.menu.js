@@ -16,6 +16,9 @@ const loadMainMenu=()=>{
     nav_menu=`
       <ul class="navbar-nav no-print">
       <li class="nav-item"><a class="navbar-link" href="home">HOME</a></li>
+      <li class="nav-item"><a class="navbar-link" href="features">FEATURES</a></li>
+      <li class="nav-item"><a class="navbar-link" href="comps">COMPS</a></li>
+      <li class="nav-item"><a class="navbar-link" href="about">ABOUT</a></li>
       </ul>
 
       <style scoped>
@@ -39,6 +42,6 @@ const loadMainMenu=()=>{
     `;
 
 
-  $("#app_menu").html(nav_menu);
+  $("#main_menu").html(nav_menu);
 
 }

@@ -23,7 +23,15 @@ export const routes=[
     module:'./../js/modules/home.mod.js'
   },
   {
-    path:'/test',
-    module:'./../js/modules/_template.mod.js'
+    path:'/features',
+    module:'./../js/modules/features.mod.js'
+  },
+  {
+    path:'/comps',
+    module:'./../js/modules/comps.mod.js'
+  },
+  {
+    path:'/about',
+    module:'./../js/modules/about.mod.js'
   },
 ];
