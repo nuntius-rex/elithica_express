@@ -4,7 +4,8 @@
 
 <p>This is the Node/Express version of the Elithica Framework.</p>
 
-## Elithica Installation With the Elithica CLI
+
+## Installation Option 1: Elithica CLI
 
 ## INSTALL
 Note: The CLI uses Git to pull the relevant selections. Make sure you have Git installed.
@@ -14,11 +15,23 @@ npm install -g @elithica/cli
 elithica
 ```
 
+Follow the onscreen instructions to start and perform installation.
+
+## Installation Option 2: Elithica CLI
+
+If you decide not to use the CLI you may simply download and install from this repository. Once downloaded, run the following within the project directory:
+
+```
+npm install
+npm start
+```
+
+
 ## Recommended Usage
 
 <p>The Elithica CLI is designed to install versions of the Elithica framework. Elithica is a front-end JavaScript Single Page Application (SPA) framework. The following Elithica options are available install:</p>
 
-> Node/Express
+> Node/Express (THIS VERSION)
 
 > LAMP (Apache/PHP)
 
