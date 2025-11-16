@@ -34,7 +34,7 @@ export default{
     </section>
     <section>
       <div class="column">
-          &copy; Dan Guinn, 2024
+          &copy; Dan Guinn, 2025
       </div>
     </section>
   </footer>
