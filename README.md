@@ -24,15 +24,19 @@ Please select the version you would like to install:
         [B] LAMP
 ```
 
-## Installation Option 2: Elithica CLI
+## Installation Option 2: Github Download or Clone
 
-If you decide not to use the CLI you may simply download and install from this repository. Once downloaded, run the following within the project directory:
+If you decide not to use the CLI you may simply download and install from this repository or use Git.
+```
+git clone https://github.com/nuntius-rex/elithica_express.git
+```
+
+Once downloaded, run the following within the project directory:
 
 ```
 npm install
 npm start
 ```
-
 
 ## Recommended Usage
 
