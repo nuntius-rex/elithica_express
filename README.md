@@ -72,9 +72,7 @@ npm start
 
           |-- modules
                |-- components
-                    |-- COMING SOON!
-               |-- integrants
-                    |-- COMING SOON!
+                    |-- (Elithica Components)
                home.mod.js
 
           |-- utils
