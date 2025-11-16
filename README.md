@@ -4,8 +4,6 @@
 
 <p>This is the Node/Express version of the Elithica Framework.</p>
 
-```
-
 ## Elithica Installation With the Elithica CLI
 
 ## INSTALL
@@ -22,10 +20,9 @@ elithica
 The following Elithica options are available install:</p>
 
 > Node/Express
-
 > LAMP (Apache/PHP)
 
-These two structures are similar, but differ with respect to minor routing. For example Apache requires an .htaccess file to direct routes to the single page application (SPA), while the Express install does not need them.
+<p>These two structures are similar, but differ with respect to minor routing. For example Apache requires an .htaccess file to direct routes to the single page application (SPA), while the Express install does not need them.</p>
 
 ## Framework Structure
 
