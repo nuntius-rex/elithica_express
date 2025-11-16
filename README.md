@@ -16,6 +16,13 @@ elithica
 ```
 
 Follow the onscreen instructions to start and perform installation.
+After providing a project name, select option A to install NODE/Express.
+
+```
+Please select the version you would like to install:
+        [A] Node/Express
+        [B] LAMP
+```
 
 ## Installation Option 2: Elithica CLI
 
