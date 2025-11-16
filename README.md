@@ -16,10 +16,10 @@ elithica
 
 ## Recommended Usage
 
-<p>The Elithica CLI is designed to install versions of the Elithica framework. Elithica is a front-end JavaScript Single Page Application (SPA) framework.
-The following Elithica options are available install:</p>
+<p>The Elithica CLI is designed to install versions of the Elithica framework. Elithica is a front-end JavaScript Single Page Application (SPA) framework. The following Elithica options are available install:</p>
 
 > Node/Express
+
 > LAMP (Apache/PHP)
 
 <p>These two structures are similar, but differ with respect to minor routing. For example Apache requires an .htaccess file to direct routes to the single page application (SPA), while the Express install does not need them.</p>
